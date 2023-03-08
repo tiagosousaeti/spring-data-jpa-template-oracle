@@ -8,7 +8,7 @@ Requer o Git configurado. No terminal, use o comando:
 
 git clone https://github.com/tiagosousaeti/spring-data-jpa-template-oracle.git
 
-## Dependências
+## DependÃªncias
 - Java 8
 - Log4j 2.10.0
 - Maven Compiler 3.2
@@ -18,5 +18,5 @@ git clone https://github.com/tiagosousaeti/spring-data-jpa-template-oracle.git
 ## Redes Sociais
 [![Twitter Follow](https://img.shields.io/twitter/follow/tiaguins.svg?style=social)](https://twitter.com/tiaguins)
 
-## Versâo
+## VersÃ£o
 1.0.3
